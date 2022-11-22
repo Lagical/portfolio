@@ -6,3 +6,28 @@
 .pink{
     color:  pink;
 }
+
+.linkit{
+    text-decoration:none;
+    color:black;
+    margin: 30px;
+    font-size: 20px;
+}
+
+.headerdiv{
+    padding: 40px;
+}
+
+.center{
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    background-color: #EEFBDD;
+}
+
+a:hover{
+    text-decoration: underline;
+}
