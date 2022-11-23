@@ -25,9 +25,20 @@
 }
 
 body{
-    background-color: #EEFBDD;
+    background: linear-gradient(#C4E8DF,#D8F6D6, #EEFBDD,#FFFFE6,#FFEEDD,#FFE4DD);
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 a:hover{
     text-decoration: underline;
+}
+
+html { 
+    height: 100%;
+    overflow-y: hidden;
+    margin-bottom:0;
+    padding:0;
+    overflow:hidden;
 }
