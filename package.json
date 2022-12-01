@@ -1,0 +1,25 @@
+{
+  "name": "nettisivu",
+  "version": "1.0.0",
+  "description": "cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lagical/nettisivu.git"
+  },
+  "author": "Markus Ylisirniö",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lagical/nettisivu/issues"
+  },
+  "homepage": "https://github.com/Lagical/nettisivu#readme",
+  "dependencies": {
+    "firebase": "^9.14.0"
+  },
+  "devDependencies": {
+    "firebase-tools": "^11.16.1"
+  }
+}
