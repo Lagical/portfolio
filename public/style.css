@@ -32,6 +32,10 @@ body{
     overflow: overlay;
 }
 
+.bottom{
+    padding-bottom: 50px;
+}
+
 a:hover{
     text-decoration: underline;
 }
