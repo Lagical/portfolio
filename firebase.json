@@ -2,6 +2,7 @@
   "hosting": {
     "site": "markusy",
     "public": "public",
+    "cleanUrls": true, 
     "ignore": [
       "firebase.json",
       "**/.*",
